@@ -141,7 +141,7 @@ CREATE TABLE IF NOT EXISTS users (
 * We also provide a basic User Interface for seamless testing with the Chatbot
 * Use VScode SQLite Viewer to see the Database getting updated in realtime, if running is VScode
 
-![Chatbot Image](templates\image1.png)
+![Chatbot Image](templates/image1.png)
 
 ## Limitations
 * The spacy English language model can right now only process US names, so Indian names wont be processed correctly all  the time(Can be solved by fine tuning)
